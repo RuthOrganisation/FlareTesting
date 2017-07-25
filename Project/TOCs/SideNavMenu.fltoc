@@ -2,19 +2,8 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Menu 1"
-    Link="/Content/Resources/Templates/StandardTemplate.htm">
-    <TocEntry
-      Title="Standard template"
-      Link="/Content/Resources/Templates/StandardTemplate.htm"></TocEntry>
-  </TocEntry>
-  <TocEntry
-    Title="Menu 2"
-    Link="/Content/Resources/Templates/3WaySwitchTemplate.htm">
-    <TocEntry
-      Title="3 Way switch template"
-      Link="/Content/Resources/Templates/3WaySwitchTemplate.htm"></TocEntry>
-  </TocEntry>
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/emptyStartingTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="About this guide"
     Link="/Content/Common/AboutThisGuide.htm" />
