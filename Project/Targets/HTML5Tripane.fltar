@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Media.NotHTML5 or Media.NotTripane or Media.NotUsed] "
+  Skin="/Project/Skins/HTML5Tripane.flskn"
+  GenerateWebSafeImages="false"
+  WebSafeFileExtension="png"
+  ReplaceSpacesWithUnderscores="true"
+  MasterPage="/Content/Resources/MasterPages/TripaneStandard.flmsp"
+  DefaultUrl="/Content/Common/AboutThisGuide.htm"
+  MasterToc="/Project/TOCs/TripaneAndPDF.fltoc"
+  ExcludeUnreferencedContent="true"
+  MobileBreakpoint="641"
+  MakeFileLowerCase="true"
+  Medium="Tripane"
+  TabletBreakpoint="1100">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

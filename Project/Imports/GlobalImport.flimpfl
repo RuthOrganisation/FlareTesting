@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport AutoSync="false" DeleteStale="false" DeleteUnreferenced="false" IncludePattern="*.*" LastImport="2016-11-03T15:37:55.0338314+00:00" AutoExcludeNonTaggedFiles="true" ConditionTagExpression="include[General.GlobalLink] ">
+    <Files>
+        <Url Source="file:///S:/Delivery Office/Comms Tech Doc/Comms/Comms - MadCapFlare/Projects/MainGlobalTemplate/GlobalTemplate.flprj" AbsoluteSource="file:///S:/Delivery Office/Comms Tech Doc/Comms/Comms - MadCapFlare/Projects/MainGlobalTemplate/GlobalTemplate.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Common/Contents.htm" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Common/TitlePage.htm" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/CircleBullet.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/CircleBullet_HTML.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/CircleBullet_PDF.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DashBullet.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DashBullet_HTML.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DashBullet_PDF.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DiscBullet.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DiscBullet_HTML.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/DiscBullet_PDF.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/feedback.gif" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/glossary.gif" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/NoteIcon_fullsize.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/NoteIcon_HTML.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/NoteIcon_PDF.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/NoteIcon_small.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/WarningIcon.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/WarningIcon_HTML.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/WarningIcon_PDF.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/Icons/warning_in_frame_trimmed_white_1cm.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/HeaderDiagonalLines.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/RedSwirl.jpg" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/RedSwirlTOC.jpg" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/worldpaydotcom.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/WorldpayLogo.png" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/MasterPages/FooterTableStyle.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/MasterPages/HomeMasterPage.flmsp" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/MasterPages/MasterPage.flmsp" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/PageLayouts/WorldpayMainA4.flpgl" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/PageLayouts/WorldpayTOCA4.flpgl" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/SkinStyles/Skin.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Stylesheets/Worldpay.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Stylesheets/WorldPayAlternativeBullets.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/TableStyles/StandardTable.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../ConditionTagSets/Media.flcts" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../Skins/Worldpay.flskn" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../VariableSets/Worldpay.flvar" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Common/Legal.htm" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../Skins/HTML5 - Worldpay Top Navigation.flskn" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/Stylesheets/MainStyles.css" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/MasterPages/StandardPage.flmsp" TimeStamp="01/01/0001 00:00:00" />
+        <Url Source="../../Content/Resources/MasterPages/HTML5HomePage.flmsp" TimeStamp="04/02/2016 08:29:40" />
+        <Url Source="../../Content/Resources/Images/Icons/ResponsiveMenuButton_emerald.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/left-link-bg.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../Skins/TripaneToolbar.flskn" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Images/Footer/youtube-icontrans-30x30.png" TimeStamp="02/11/2016 15:53:21" />
+        <Url Source="../../Content/Resources/Stylesheets/TripaneSkinStyles.css" TimeStamp="03/11/2016 14:53:41" />
+        <Url Source="../../Content/Resources/prettify/lang-yaml.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-yml.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-xquery.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-vhdl.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-wiki.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-xq.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/prettify.css" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/prettify.js" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Images/Footer/facebook-icon-30x30.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Snippets/Footer/AboveFooterLinks.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Footer/Footer.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/GreenLinks/greenlinks.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/ContactUs/Feedback.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/ContactUs/ContactUs.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/prettify/run_prettify.js" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Scripts/Select_All.js" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Breadcrumbs/BreadcrumbPrefix.flsnp" TimeStamp="03/11/2016 14:53:19" />
+        <Url Source="../../Content/Resources/prettify/lang-vhd.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-vbs.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-r.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-rd.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-rkt.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-proto.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-pascal.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-mumps.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-n.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-nemerle.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-rust.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-s.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-scala.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-tcl.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-tex.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-vb.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-swift.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-ss.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-scm.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-Splus.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/prettify/lang-sql.js" TimeStamp="02/11/2016 14:21:02" />
+        <Url Source="../../Content/Resources/Snippets/Legal/Legal.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Legal/prettify.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 1.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/TableStyles/StandardTableNoBorder.css" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/TableStyles/FixLayoutStandardTable.css" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansthinitalic.woff" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansthin.woff" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansregular.ttf" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansregular.woff" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/TableStyles/TripaneFooterTable.css" TimeStamp="02/11/2016 16:19:49" />
+        <Url Source="../../Content/Resources/Templates/3WaySwitchTemplate.htm" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Templates/StandardTemplate.htm" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../Skins/SideMenu.flskn" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../TOCs/TopNavMenus.fltoc" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../Skins/SearchBar.flskn" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../Skins/HTML5Tripane.flskn" TimeStamp="03/11/2016 12:14:16" />
+        <Url Source="../ConditionTagSets/General.flcts" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansregular.svg" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansregular.eot" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesanslightitalic.woff" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 6.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 7.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 5.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 4.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 3.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 10.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 2.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 8.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Snippets/Select Code/Select Code - Block 9.flsnp" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansitalic.woff" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesanslight.woff" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansbolditalic.woff" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/fonts/adellesansbold.woff" TimeStamp="02/11/2016 14:21:03" />
+        <Url Source="../../Content/Resources/Stylesheets/WordStyles.css" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/NavigationStyles.css" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/Stylesheets/ScriptStyles.css" TimeStamp="02/11/2016 14:21:04" />
+        <Url Source="../../Content/Resources/prettify/lang-ml.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-matlab.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/Images/Icons/Next.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/PDF-emerald.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/PDF-purple.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/Menu_hover.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/mega-menu-toggle-icon-up.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/green-arrow-right-small.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/green-right-arrow-on-white-background.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/mega-menu-toggle-icon-down.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/PDF-red.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/Prev.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/Warning_HTML.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/zoomButton.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/ContactUs.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/Tick_PDF.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/Tick.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/redBTT.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/right-link-bg.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/search_image_small_dark_green3.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/Icons/green-arrow-bottom-small.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/youtube-icon-30x30.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/bottom-link-bg.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/BreadcrumbArrow.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/WorldpayLogo_Footer.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/worldpay-logo-white.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/google-icon-30x30.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/linkedin-icon-30x30.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Footer/twitter-icon-30x30.jpg" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/favicon.ico" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/Cross.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/Icons/Cross_PDF.png" TimeStamp="02/11/2016 14:20:59" />
+        <Url Source="../../Content/Resources/Images/PageLayout/GreyTriangle.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/Images/PageLayout/GreyTriangle_t.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/prettify/lang-go.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-hs.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lasso.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-fs.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-erlang.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-dart.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-el.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-erl.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lassoscript.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-latex.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-ls.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lsp.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lua.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-logtalk.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-llvm.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lgt.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-lisp.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-ll.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-css.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-clj.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/MasterPages/3WaySwitchPage.flmsp" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/MasterPages/TripaneStandard.flmsp" TimeStamp="02/11/2016 18:21:42" />
+        <Url Source="../../Content/Resources/Images/PageLayout/worldpaydotcom_thicker_m.png" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/PageLayouts/WorldpayContactUsA4.flpgl" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/PageLayouts/WorldpayLandscapeA4.flpgl" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../../Content/Resources/prettify/lang-basic.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-cbm.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-cl.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-apollo.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-agc.js" TimeStamp="02/11/2016 14:21:01" />
+        <Url Source="../../Content/Resources/prettify/lang-aea.js" TimeStamp="02/11/2016 14:21:00" />
+        <Url Source="../VariableSets/Global.flvar" TimeStamp="02/11/2016 14:21:05" />
+    </GeneratedFiles>
+</CatapultProjectImport>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\user\Documents\My Flare Projects\CSE CURRENT\Content\D - Integration\Server Side Integration.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\user\Documents\My Flare Projects\CSE CURRENT\Content\Resources\Images\Flows\CSE flow.png" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\user\Documents\My Flare Projects\CSE CURRENT\Content\Resources\Snippets\How it works.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+</RecentLinks>

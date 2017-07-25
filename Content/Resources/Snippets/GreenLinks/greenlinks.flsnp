@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="General.GlobalLink">
+    <head>&#160;</head>
+    <body>
+        <script>
+			$('.navigation-wrapper')
+			.prepend('<div class="greenlinks"><a href="http://www.worldpay.com/global/about/contact-us">Contact Us</a><a href="http://www.worldpay.com/global/support">Support</a><a href="mcvariable:Project.AccountsPagePath">Account Login</a><a id="search" href="http://www.worldpay.com/global/search/site?keyword=">Search</a><a href="mcvariable:Project.TerritoriesPagePath">Global</a></div>');
+		</script>
+    </body>
+</html>

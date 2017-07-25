@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="General.GlobalLink">
+  <ConditionTag
+    Comment="Use to exclude content from HTML5 outputs - both webhelp and top nav"
+    Name="NotHTML5"
+    BackgroundColor="#9932cc"
+    OriginalName="NotHTML5" />
+  <ConditionTag
+    Comment="Use to exclude content from a pdf"
+    Name="NotPDF"
+    BackgroundColor="#32cd32"
+    OriginalName="NotPDF" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="NotUsed"
+    Comment="Use to exclude content from all outputs" />
+  <ConditionTag
+    BackgroundColor="#ffff00"
+    Name="NotTopNav"
+    Comment="Use to exclude content from top nav style output"
+    OriginalName="NotTopNav" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="NotTripane"
+    Comment="Use to exclude content from webhelp outputs" />
+  <ConditionTag
+    BackgroundColor="#f5f5f5"
+    Name="NotWord"
+    Comment="Use to exclude content from Word output"
+    OriginalName="NotWord" />
+</CatapultConditionTagSet>

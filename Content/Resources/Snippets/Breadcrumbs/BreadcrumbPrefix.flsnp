@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="100" MadCap:lastWidth="1211" MadCap:conditions="General.GlobalLink">
+    <head>
+        <link href="../../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <!-- Specifies the topnav breadcrumb format -->
+        <p MadCap:conditions="Media.NotTripane" class="breadcrumb"><a href="http://www.worldpay.com/global">Home</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support">Support</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support/guides">Guides</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support/guides/corporate-gateway">Corporate Gateway Guides</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><span class="breadcrumbRed"><MadCap:variable name="Project.WebsiteOrGuideTitle" class="breadcrumbRed" /></span>
+        </p>
+        <p MadCap:conditions="Media.NotTopNav" class="breadcrumb"><a href="http://www.worldpay.com/global" target="_parent">Home</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support" target="_parent">Support</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support/guides" target="_parent">Guides</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://www.worldpay.com/global/support/guides/corporate-gateway" target="_parent">Corporate Gateway Guides</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><span class="breadcrumbRed"><MadCap:variable name="Project.WebsiteOrGuideTitle" class="breadcrumbRed" /></span>
+        </p>
+        <p MadCap:conditions="Media.NotUsed">Use for Developer guides:</p>
+        <p MadCap:conditions="Media.NotTripane,Media.NotUsed" class="breadcrumb"><a href="http://www.worldpay.com/global">Home</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="https://developer.worldpay.com/">Developers</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://support.worldpay.com/support/xmlapi/content/home.htm">XML API Docs</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><span class="breadcrumbRed"><MadCap:variable name="Project.WebsiteOrGuideTitle" class="breadcrumbRed" /></span>
+        </p>
+        <p MadCap:conditions="Media.NotTopNav,Media.NotUsed" class="breadcrumb"><a href="http://www.worldpay.com/global" target="_parent">Home</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="https://developer.worldpay.com/" target="_parent">Developers</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><a href="http://support.worldpay.com/support/xmlapi/content/home.htm" target="_parent">XML API Docs</a>
+            <img src="../../Images/Icons/BreadcrumbArrow.png" style="height: 13px;width: 28px;vertical-align: middle;" /><span class="breadcrumbRed"><MadCap:variable name="Project.WebsiteOrGuideTitle" class="breadcrumbRed" /></span>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True"
+  conditions="General.GlobalLink">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="NextTopic">
+            <Properties>
+              <Property
+                Name="BackgroundImage">url('right-link-bg.png')</Property>
+              <Property
+                Name="BackgroundGradient">vertical #007867 #007867</Property>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="BorderTop">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderRight">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderBottom">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderLeft">none 1px #e1e1e1</Property>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+              <Property
+                Name="Width">23px</Property>
+              <Property
+                Name="Height">23px</Property>
+              <Property
+                Name="BorderBottomLeftRadius">0px</Property>
+              <Property
+                Name="BorderBottomRightRadius">0px</Property>
+              <Property
+                Name="BorderTopRightRadius">0px</Property>
+              <Property
+                Name="BorderTopLeftRadius">0px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="PreviousTopic">
+            <Properties>
+              <Property
+                Name="BorderTop">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderRight">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderBottom">none 1px #e1e1e1</Property>
+              <Property
+                Name="BorderLeft">none 1px #e1e1e1</Property>
+              <Property
+                Name="BackgroundImage">url('left-link-bg.png')</Property>
+              <Property
+                Name="BackgroundGradient">vertical #007867 #007867</Property>
+              <Property
+                Name="BackgroundColor">transparent</Property>
+              <Property
+                Name="BoxShadowVShadow">0px</Property>
+              <Property
+                Name="Width">23px</Property>
+              <Property
+                Name="Height">23px</Property>
+              <Property
+                Name="BorderBottomLeftRadius">0px</Property>
+              <Property
+                Name="BorderBottomRightRadius">0px</Property>
+              <Property
+                Name="BorderTopRightRadius">0px</Property>
+              <Property
+                Name="BorderTopLeftRadius">0px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="right-link-bg.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0uxAzM/BBiQ1GK/uA1KSJa4RJcH5aSXliUWpDI4p+UmpCp65iempQamJKZWFJ1NtgIq6PV0cQypuJf34////w/8CBuwdkhMMOwIYH80PYDV7MUkhhnfqHt4jOUBW4+cA1l4gncN2pH5B2IrF3k0fWFa8O3xDpbLhh2KIo9QuFY5wB9X4hd4fmD8Kr3iSUnIyM6CzWkF7gqrOwnWsjOEp7IbKP4vtdtkn9jHcVG+R2zZ/4aTGF4m7WbU2Mt2NZmBkY3BZHLvu6VWDc0BnMXi6+rmsc0poAgCqIhCW6QAAAA==</Resource>
+      <Resource
+        Name="left-link-bg.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0uxAzM/BBiQ1GK/uA1KcBR6RxQwMfEdAmHGqNp80SFWJp68r+wNuRm5LvdO/Ow6BhVwjShxLSzLyixhWrjvjARTiAQm5pBYnF2UWlGTm5zEIcyoqA8W5QOLO+QWVRZnpGSUMa/jPWAFF+cCiRamJIKUKJZm5qQym3/k5QU4AyQTnp5WUJxalMsQW/Acp5wYbnlmcnJMIVFrEsP3Aln6gMAdIODyxKC8zL53hgPSzdpjTgvNLi5JTGb7+b34NU+acn5ubmlfC8O3MtP1AMTaQWEhmSU4qw4p3l9SBIjM8XRxDJKbGXtjIeShA4NhH5oNaChbND9icDpgx72gx5gjLU+AIc4piP8EmqcDMwnLw1DUvjj/BT6offrTd8aq8/P07Jo5u9svZst+a7DecTOT8cshYwDKOZa5Q+p1VVxneBDkeCgu9XtPG0NdkHmBR16oer90w+wPzGhnuB0tbdiczTC1g8DrO8CrnfOvjqP/nDv/M5T80/77Z0WDOsxw+wbHrUioa+YBuZPB09XNZ55TQBAD6gA94zQEAAA==</Resource>
+    </Resources>
+  </Stylesheet>
+  <Strings>
+    <Stylesheet
+      lang="en-gb">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Toolbar">
+            <Properties>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="ToolbarItem">
+            <Classes>
+              <StyleClass
+                Name="NextTopic">
+                <Properties>
+                  <Property
+                    Name="Tooltip">Next</Property>
+                </Properties>
+              </StyleClass>
+              <StyleClass
+                Name="PreviousTopic">
+                <Properties>
+                  <Property
+                    Name="Tooltip">Previous</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+        </Styles>
+      </Stylesheet>
+    </Stylesheet>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Toolbar">
+            <Properties>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="ToolbarItem">
+            <Classes>
+              <StyleClass
+                Name="NextTopic">
+                <Properties>
+                  <Property
+                    Name="BackgroundImage">url('right-link-bg.png')</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+        </Styles>
+        <Resources>
+          <Resource
+            Name="right-link-bg.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0uxAzM/BBiQ1GK/uA1KSJa4RJcH5aSXliUWpDI4p+UmpCp65iempQamJKZWFJ1NtgIq6PV0cQypuJf34////w/8CBuwdkhMMOwIYH80PYDV7MUkhhnfqHt4jOUBW4+cA1l4gncN2pH5B2IrF3k0fWFa8O3xDpbLhh2KIo9QuFY5wB9X4hd4fmD8Kr3iSUnIyM6CzWkF7gqrOwnWsjOEp7IbKP4vtdtkn9jHcVG+R2zZ/4aTGF4m7WbU2Mt2NZmBkY3BZHLvu6VWDc0BnMXi6+rmsc0poAgCqIhCW6QAAAA==</Resource>
+        </Resources>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic" />
+</CatapultSkin>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/TripaneAndPDF.fltoc"
+  ConditionTagExpression="exclude[Media.NotPDF or Media.NotUsed] "
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  OutputFile="NameofGuide">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true" />
+  <Glossaries />
+  <DocumentProperties
+    Author="Worldpay"
+    Title="Title of this guide" />
+</CatapultTarget>

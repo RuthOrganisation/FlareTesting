@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="65" MadCap:lastWidth="1629">
+    <head>&#160;</head>
+    <body>
+        <script type="text/javascript">
+			$(".one").show();
+		</script>
+        <script type="text/javascript">
+			var Options = localStorage.getItem('Options');
+			document.getElementById(Options).checked = true;
+		</script>
+        <script type="text/javascript">
+			var Options = localStorage.getItem('Options');
+
+			if(Options=="one"){
+			$(".box").not(".one").hide();
+			$(".one").show();
+			}
+			if(Options=="two"){
+			$(".box").not(".two").hide();
+			$(".two").show();
+			}
+			if(Options=="three"){
+			$(".box").not(".three").hide();
+			$(".three").show();
+			}
+		</script>
+    </body>
+</html>

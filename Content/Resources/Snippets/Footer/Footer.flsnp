@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="214" MadCap:lastWidth="1513" MadCap:conditions="General.GlobalLink,Media.NotTripane">
+    <body>
+        <div class="hrfooter">
+            <div class="row" style="margin-left:auto; margin-right:auto;">
+                <div class="large-7 medium-7 small-12 columns" style="padding-left:0;">
+                    <p>Guide feedback? Email us at: <a href="mailto:guides@worldpay.com?subject=Guide feedback" title="Send us your feedback" alt="Send us your feedback">guides@worldpay.com</a></p>
+                </div>
+                <div id="socialmedia" class="large-5 medium-5 small-12 columns"><a href="https://plus.google.com/102354760000065809589"><img src="../../Images/Footer/google-icon-30x30.jpg" /></a>&#160;&#160;<a href="https://www.linkedin.com/company/worldpay"><img src="../../Images/Footer/linkedin-icon-30x30.jpg" /></a>&#160;&#160;<a href="https://www.youtube.com/user/WorldpayGlobal"><img src="../../Images/Footer/youtube-icon-30x30.jpg" /></a>&#160;&#160;<a href="https://twitter.com/worldpay"><img src="../../Images/Footer/twitter-icon-30x30.jpg" /></a>&#160;&#160;<a href="https://www.facebook.com/WorldPay"><img src="../../Images/Footer/facebook-icon-30x30.jpg" /></a><p></p><p></p></div>
+            </div>
+            <div class="row" style="margin-left:auto; margin-right:auto;">
+                <div class="medium-12 columns" style="padding-left:0;">
+                    <p class="footer"><a href="https://www.worldpay.com/sites/default/files/Worldpay_Supplier_Code_of_Conduct.pdf">Supplier Code of Conduct</a>&#160;&#160;&#160;<a href="http://www.worldpay.com/uk/privacy-policy">Privacy Policy</a>&#160;&#160;&#160;<a href="http://www.worldpay.com/uk/terms-conditions">Terms &amp; Conditions RoW</a></p>
+                    <p class="Copyright"><MadCap:variable name="Global.Copyright" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

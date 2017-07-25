@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="142" MadCap:lastWidth="1220">
+    <head>
+        <link href="../../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2 MadCap:conditions="">Option one</h2>
+        <p MadCap:conditions="">Integer congue ex in suscipit imperdiet. Aenean id scelerisque nulla. Vivamus rutrum lorem in diam dictum, vel tempus neque scelerisque. Nulla faucibus feugiat leo, quis iaculis justo sollicitudin nec. Phasellus molestie arcu vitae egestas dapibus. Fusce auctor et metus sit amet molestie. </p>
+        <p MadCap:conditions="">Proin gravida elit quis diam rhoncus, eget pretium nisl ultrices. Vestibulum porttitor cursus lorem sed cursus.</p>
+    </body>
+</html>

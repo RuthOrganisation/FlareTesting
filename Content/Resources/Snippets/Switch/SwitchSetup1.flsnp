@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="43" MadCap:lastWidth="1168">
+    <head>&#160;</head>
+    <body>
+        <div class="clearfix">
+            <!--<script type="text/javascript" src="http://code.jquery.com/jquery.min.js">
+			</script>-->
+            <script type="text/javascript">/*<![CDATA[*/$(document).ready(function(){
+				$('input[type="radio"]').click(function(){
+				if($(this).attr("value")=="one"){
+				$(".box").not(".one").hide();
+				$(".one").show();
+				localStorage.setItem("Options","one");
+				}
+				if($(this).attr("value")=="two"){
+				$(".box").not(".two").hide();
+				$(".two").show();
+				localStorage.setItem("Options","two");
+				}
+				if($(this).attr("value")=="three"){
+				$(".box").not(".three").hide();
+				$(".three").show();
+				localStorage.setItem("Options","three");
+				}
+				});
+			});/*]]>*/</script>
+        </div>
+        <div class="toggle-btn-grp cssonly">
+            <div>
+                <input type="radio" name="Options" id="one" value="one" checked="checked" />
+                <label class="toggle-btn"> One </label>
+            </div>
+            <div>
+                <input type="radio" name="Options" id="two" value="two" />
+                <label class="toggle-btn"> Two </label>
+            </div>
+            <div>
+                <input type="radio" name="Options" id="three" value="three" />
+                <label class="toggle-btn"> Three </label>
+            </div>
+        </div>
+    </body>
+</html>

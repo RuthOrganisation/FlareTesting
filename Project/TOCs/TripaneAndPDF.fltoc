@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="PDF Title page"
+    Link="/Content/Common/TitlePage.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/WorldpayMainA4.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageType="title"
+    AutoEndOnLeftPage="disabled"
+    conditions="Media.NotHTML5" />
+  <TocEntry
+    Title="Contents"
+    Link="/Content/Common/Contents.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/WorldpayTOCA4.flpgl"
+    AutoEndOnLeftPage="disabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    conditions="Media.NotHTML5" />
+  <TocEntry
+    Title="About this guide"
+    Link="/Content/Common/AboutThisGuide.htm"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/WorldpayMainA4.flpgl"></TocEntry>
+  <TocEntry
+    Title="Standard template"
+    Link="/Content/Resources/Templates/StandardTemplate.htm"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/WorldpayMainA4.flpgl" />
+  <TocEntry
+    Title="Contact Us"
+    Link="/Content/Common/ContactUs.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/WorldpayContactUsA4.flpgl"
+    AutoEndOnLeftPage="disabled"
+    conditions="Media.NotHTML5,Media.NotWord" />
+</CatapultToc>

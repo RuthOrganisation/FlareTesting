@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="General.GlobalLink">
+  <TocEntry
+    Title="mcvariable:Project.WebsiteOrGuideTitle">
+    <TocEntry
+      Title="SideNavMenuTOC"
+      Link="/Project/TOCs/SideNavMenu.fltoc"
+      ReplaceMergeNode="true"
+      conditions="General.NotHowTo"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Contact Us"
+    Link="http://www.worldpay.com/global/about/contact-us"></TocEntry>
+  <TocEntry
+    Title="Support"
+    Link="http://www.worldpay.com/global/support"></TocEntry>
+  <TocEntry
+    Title="Account Login"
+    Link="http://support.worldpay.com/support/xmlapi/content/common/logins.htm" />
+  <TocEntry
+    Title="Select Your Territory"
+    Link="http://support.worldpay.com/support/xmlapi/content/common/territories.htm"></TocEntry>
+  <TocEntry
+    Title="Products">
+    <TocEntry
+      Title="Alternative Payments"
+      Link="http://www.worldpay.com/global/products/alternative-payments"></TocEntry>
+    <TocEntry
+      Title="Cross-border Payments"
+      Link="http://www.worldpay.com/global/products/bankout"></TocEntry>
+    <TocEntry
+      Title="Data &amp; Analytics"
+      Link="http://www.worldpay.com/global/products/data-analytics"></TocEntry>
+    <TocEntry
+      Title="Fraud &amp; Risk Management"
+      Link="http://www.worldpay.com/global/products/fraud-risk-management" />
+    <TocEntry
+      Title="Gateway Services"
+      Link="http://www.worldpay.com/global/products/gateway-services"></TocEntry>
+    <TocEntry
+      Title="Mobile Payments"
+      Link="http://www.worldpay.com/global/products/mobile-payments"></TocEntry>
+    <TocEntry
+      Title="Omni-channel"
+      Link="http://www.worldpay.com/global/products/worldpay-total-international-omni-channel-solution"></TocEntry>
+    <TocEntry
+      Title="Online Card Payments"
+      Link="http://www.worldpay.com/global/products/online-card-payments"></TocEntry>
+    <TocEntry
+      Title="Optimisation"
+      Link="http://www.worldpay.com/global/products/optimisation"></TocEntry>
+    <TocEntry
+      Title="Treasury Services"
+      Link="http://www.worldpay.com/global/products/treasury"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Business Types">
+    <TocEntry
+      Title="Airlines"
+      Link="http://www.worldpay.com/global/business-types/airlines"></TocEntry>
+    <TocEntry
+      Title="Digital Content"
+      Link="http://www.worldpay.com/global/business-types/digital-content" />
+    <TocEntry
+      Title="Gambling"
+      Link="http://www.worldpay.com/global/business-types/gambling" />
+    <TocEntry
+      Title="Global Retail"
+      Link="http://www.worldpay.com/global/business-types/global-retail" />
+    <TocEntry
+      Title="Travel"
+      Link="http://www.worldpay.com/global/business-types/travel" />
+    <TocEntry
+      Title="Video Games"
+      Link="http://www.worldpay.com/global/business-types/video-games"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Insight &amp; Events">
+    <TocEntry
+      Title="Latest Insight hub"
+      Link="http://www.worldpay.com/global/insight"></TocEntry>
+    <TocEntry
+      Title="All Insight articles"
+      Link="http://www.worldpay.com/global/insight/articles"></TocEntry>
+    <TocEntry
+      Title="All Blog articles"
+      Link="http://www.worldpay.com/global/blog"></TocEntry>
+    <TocEntry
+      Title="All Case studies"
+      Link="http://www.worldpay.com/global/insight/case-studies"></TocEntry>
+    <TocEntry
+      Title="Events"
+      Link="http://www.worldpay.com/global/insight/events"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Partners"
+    Link="http://www.worldpay.com/global/partners"></TocEntry>
+  <TocEntry
+    Title="Developers"
+    Link="https://developer.worldpay.com/"></TocEntry>
+  <TocEntry
+    Title="About Worldpay">
+    <TocEntry
+      Title="Careers"
+      Link="http://www.worldpay.com/global/about/careers"></TocEntry>
+    <TocEntry
+      Title="Company overview"
+      Link="http://www.worldpay.com/global/about/company-overview"></TocEntry>
+    <TocEntry
+      Title="Executive team"
+      Link="http://www.worldpay.com/global/about/our-history"></TocEntry>
+    <TocEntry
+      Title="Our history"
+      Link="http://www.worldpay.com/global/about/our-history"></TocEntry>
+    <TocEntry
+      Title="Our markets"
+      Link="http://www.worldpay.com/global/about/our-markets"></TocEntry>
+    <TocEntry
+      Title="Press releases"
+      Link="http://www.worldpay.com/global/about/media-centre"></TocEntry>
+    <TocEntry
+      Title="What makes us a great payment partner"
+      Link="http://www.worldpay.com/global/about/what-makes-great-payment-partner"></TocEntry>
+    <TocEntry
+      Title="What sets us apart"
+      Link="http://www.worldpay.com/global/about/what-sets-us-apart"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Placeholder"
+    Link=""></TocEntry>
+</CatapultToc>

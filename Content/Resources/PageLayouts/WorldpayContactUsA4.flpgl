@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="General.GlobalLink" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Contents" Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="0.79in" PaddingRight="0.79in" PaddingTop="1.26in" PaddingBottom="1.18in" BackgroundPositionX="right" BackgroundPositionY="bottom" BackgroundRepeat="no-repeat" BackgroundImage="../Images/PageLayout/RedSwirlTOC.jpg">
+        <Frame Flow="header" Height="0.5833333in" Anchors="Left,Right,Top" X="-0.3958333in" Y="-0.9270833in" ColumnCount="1" Bottom="9.604167in" Right="-0.3958333in" Width="718px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:class="Header">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td><MadCap:variable xhtml:name="Project.WebsiteOrGuideTitle" /> &gt; <xhtml:span xhtml:class="WorldpayRed">Contact us</xhtml:span></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="System.PageNumber" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PageLayout/HeaderDiagonalLines.png" xhtml:style="width: 7.49in;height: 0.17in;max-width: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.3125in" Anchors="Left,Right,Bottom" Bottom="-0.8541667in" Y="9.802083in" BorderTopStyle="none" BorderTopWidth="3pt" BorderTopColor="#000000" TextAlign="left" VerticalAlign="bottom" X="-0.3958333in" Width="718px" Right="-0.3958333in">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Footer">
+                            <xhtml:img xhtml:src="../Images/PageLayout/worldpaydotcom.png" xhtml:style="width: 1.01in;height: 0.15in;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" X="196px" Y="655px" Width="446px" Height="114px" Right="0px" Bottom="120px">
+        </Frame>
+        <Frame X="-9px" Y="587px" Width="2in" Height="1.75in" Flow="decoration0" Right="459px" Bottom="134px" Anchors="Left">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PageLayout/ContactUs.png" xhtml:style="width: 1.95in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-0.8958333in" Y="772px" Width="814px" Height="1.114583in" Flow="decoration1" Right="-0.8958333in" Bottom="0.1041667in" BackgroundType="Solid" BackgroundColor="#ebebeb" Anchors="Left,Right,Bottom" />
+        <Frame X="0px" Y="792px" Width="642px" Height="0.90625in" FlowIndex="3" Flow="body" Right="0px" Bottom="0.1041667in" Anchors="Left,Right,Bottom" BackgroundColor="#ebebeb" />
+        <Frame X="278px" Y="869px" Width="87px" Height="45px" Flow="decoration2" Right="277px" Bottom="-25px" Anchors="Width" TextAlign="center" VerticalAlign="top">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PageLayout/GreyTriangle_t.png" xhtml:style="width: 0.58in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/HTML5 - Worldpay Top Navigation.flskn"
+  MasterToc="/Project/TOCs/TopNavMenus.fltoc"
+  DefaultUrl="/Content/Resources/Templates/StandardTemplate.htm"
+  MasterPage="/Content/Resources/MasterPages/StandardPage.flmsp"
+  TabletBreakpoint="1100"
+  ConditionTagExpression="exclude[Media.NotHTML5 or Media.NotTopNav or Media.NotUsed] "
+  ChunkIndex="true"
+  PartialWordSearch="true"
+  ExcludeUnreferencedContent="true"
+  UseDeviceWidth="false"
+  MobileBreakpoint="641"
+  MakeFileLowerCase="true"
+  UseCustomTopicFileExtension="false"
+  MoveOutputContentToRoot="false"
+  EnableSitemap="false"
+  SitemapWebUrl=""
+  GenerateWebSafeImages="false"
+  WebSafeFileExtension="png"
+  ReplaceSpacesWithUnderscores="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations> </Destinations>
+</CatapultTarget>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="WebsiteOrGuideTitle"
+    Comment="">[Website or Guide Title]</Variable>
+  <Variable
+    Name="GatewayHeading"
+    Comment="">Corporate Gateway</Variable>
+  <Variable
+    Name="Version"
+    Comment="">[vn.n Month Year]</Variable>
+  <Variable
+    Name="WebsiteorGuideSubtitle"
+    Comment="Use for an optional subtitle">[Website or Guide Subtitle]</Variable>
+  <Variable
+    Name="ProjectOrProductName"
+    Comment="">[Product Name]</Variable>
+  <Variable
+    Name="AccountsPagePath"
+    Comment="This is the url to this project's Account Logins page when hosted on the Internet"
+    EvaluatedDefinition="file:///C:/Users/Ruth/Documents/FlareProjects/MoreWorldpayTemplate/MoreWorldpayTemplate22AUG/Output/Ruth/HTML5TopNav/content/common/logins.htm">http://support.worldpay.com/support/xmlapi/content/common/logins.htm</Variable>
+  <Variable
+    Name="TerritoriesPagePath"
+    Comment="This is the url to this project's Territories page when hosted on the Internet"
+    EvaluatedDefinition="file:///C:/Users/Ruth/Documents/FlareProjects/MoreWorldpayTemplate/MoreWorldpayTemplate22AUG/Output/Ruth/HTML5TopNav/content/common/territories.htm">http://support.worldpay.com/support/xmlapi/content/common/territories.htm</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="General.GlobalLink">
+  <Variable
+    Comment=""
+    Name="CompanyName">Worldpay</Variable>
+  <Variable
+    Name="RelatedTopics"
+    Comment="">Related topics:</Variable>
+  <Variable
+    Name="Copyright"
+    Comment="">© Worldpay 2017. All rights reserved.</Variable>
+  <Variable
+    Name="TrademarkStatement"
+    Comment="">Worldpay, the logo and any associated brand names are all trademarks of the Worldpay group of companies.</Variable>
+</CatapultVariableSet>

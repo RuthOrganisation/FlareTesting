@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="General.GlobalLink,InternalUse.GlobalLink">
+  <ConditionTag
+    BackgroundColor="#b0e0e6"
+    Name="GlobalLink"
+    Comment="Internal Use Only - shows which files are linked to the global project" />
+</CatapultConditionTagSet>

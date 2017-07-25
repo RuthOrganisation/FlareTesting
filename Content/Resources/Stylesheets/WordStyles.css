@@ -1,0 +1,59 @@
+/*<meta conditions="General.GlobalLink" />*/
+
+@import url('MainStyles.css');
+
+@media print
+{
+	/*Alert style overrides for Word docs */
+
+	p.Note,
+	div.Note > p:first-child
+	{
+		mc-auto-number-format: 'Note:\00a0';
+		color: #69197d;
+		padding-left: 0;
+		border: none;
+	}
+
+	div.Note p
+	{
+		color: #69197d;
+	}
+
+	p.PreReq,
+	div.PreReq > p:first-child
+	{
+		mc-auto-number-format: 'Prerequisite:\00a0';
+		color: #007867;
+		padding-left: 0;
+		border: none;
+	}
+
+	div.PreReq p
+	{
+		color: #007867;
+	}
+
+	p.BestPrac,
+	div.BestPrac > p:first-child
+	{
+		mc-auto-number-format: 'Best Practice:\00a0';
+		color: #E18B00;
+		padding-left: 0;
+		border: none;
+	}
+
+	div.BestPrac
+	{
+		color: #E18B00;
+	}
+
+	p.Warning,
+	div.Warning > p:first-child
+	{
+		mc-auto-number-format: 'Warning:\00a0';
+		padding-left: 0;
+		border: none;
+	}
+}
+

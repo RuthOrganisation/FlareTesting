@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Menu skin"
+  ComponentType="Menu"
+  EnableResponsiveOutput="True"
+  conditions="General.GlobalLink">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="PaddingRight">0px</Property>
+          <Property
+            Name="Width">100%</Property>
+          <Property
+            Name="BackgroundColor">#333</Property>
+          <Property
+            Name="Color">#ffffff</Property>
+          <Property
+            Name="FontFamily">'Adelle Sans', Calibri, Arial, sans-serif</Property>
+          <Property
+            Name="FontSize">0.9em</Property>
+          <Property
+            Name="WhiteSpace">normal</Property>
+          <Property
+            Name="BackgroundImage">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Properties>
+          <Property
+            Name="PaddingBottom">4px</Property>
+          <Property
+            Name="PaddingRight">0px</Property>
+          <Property
+            Name="BackgroundImage">none</Property>
+          <Property
+            Name="PaddingTop">16px</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="1st Level">
+            <Properties>
+              <Property
+                Name="PaddingTop">6px</Property>
+              <Property
+                Name="PaddingBottom">6px</Property>
+              <Property
+                Name="PaddingLeft">20px</Property>
+              <Property
+                Name="BackgroundImage">none</Property>
+              <Property
+                Name="Color">#cacaca</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="PaddingTop">2px</Property>
+              <Property
+                Name="PaddingBottom">2px</Property>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="3rd Level">
+            <Properties>
+              <Property
+                Name="PaddingTop">2px</Property>
+              <Property
+                Name="PaddingBottom">2px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="4th Level">
+            <Properties>
+              <Property
+                Name="PaddingBottom">2px</Property>
+              <Property
+                Name="PaddingTop">2px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="Selected">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#007867</Property>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Menu Item (hover)">
+        <Properties>
+          <Property
+            Name="BackgroundColor">transparent</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="Selected">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#007867</Property>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="1st Level">
+            <Properties>
+              <Property
+                Name="BackgroundImage">none</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="3rd Level">
+            <Properties></Properties>
+          </StyleClass>
+          <StyleClass
+            Name="4th Level">
+            <Properties></Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Menu">
+          <Properties>
+            <Property
+              Name="Display">none</Property>
+          </Properties>
+        </Style>
+      </Medium>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Menu">
+          <Properties>
+            <Property
+              Name="Width">100%</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="bottom-link-bg.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gJAzM7BBiQZFc46ASnJEteIkuD8tJLyxKJUBseU/KRUBc/cxPTUoNTElMrCk6k2QEXNni6OIRW3kn78//9fTyGMJYlNaAOXwHvWpDoBdpZ9jIWsApsFL5xgC/3Ou4o/58Ci/xwFoh25BRnbWB55e2Q9ZzA09rnE3CG/yPOT81OHLykx0xRuH2A+cnmCyD6mR24KdU1PzlqV5CcVr7IVuP+jn+ubEzOfs+26A49YHukp1PEd2fiDSUzhAANbWNGEe9WnuIHOYfB09XNZ55TQBACwXbrJ4QAAAA==</Resource>
+    </Resources>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

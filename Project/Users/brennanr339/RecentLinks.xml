@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="S:\Delivery Office\Comms Tech Doc\Comms\Ruth\CSE\GlobalProject\30NOV2100\TopNavGlobal\Content\ExampleTopic.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="S:\Delivery Office\Comms Tech Doc\Comms\Ruth\MoreWorldpayTemplate\MoreWorldpayTemplate24AUG\Content\InternalUseHowToUseTheTemplate\ExampleImages\ruthbitmoji.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="S:\Delivery Office\Comms Tech Doc\Comms\Ruth\MoreWorldpayTemplate\MoreWorldpayTemplateSEP07\Content\InternalUseHowToUseTheTemplate\ExampleTopics\3WaySwitchExample.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage">
+        <Link Value="S:\Delivery Office\Comms Tech Doc\Comms\Ruth\TopNavGlobalProject\Content\PPD video tutorial.mp4" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="S:\Delivery Office\Comms Tech Doc\Comms\Ruth\MoreWorldpayTemplate\MoreWorldpayTemplate7\Content\Resources\Snippets\Legal\Legal.flsnp" />
+    </Dialog>
+</RecentLinks>

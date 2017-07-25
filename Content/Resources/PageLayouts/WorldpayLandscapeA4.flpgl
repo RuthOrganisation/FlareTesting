@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="General.GlobalLink" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Landscape" Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="0.79in" PaddingRight="0.79in" PaddingTop="1.26in" PaddingBottom="1.18in" Orientation="landscape">
+        <Frame Flow="header" Height="0.5833333in" Anchors="Left,Right,Top" X="-0.3958333in" Y="-0.9270833in" ColumnCount="1" Bottom="6.177083in" Right="-0.3958333in" Width="1047px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:class="Header">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td><MadCap:variable xhtml:name="Project.WebsiteOrGuideTitle" /> &gt; <xhtml:span xhtml:class="WorldpayRed"><MadCap:variable xhtml:name="Heading.Level1" /></xhtml:span></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;"><MadCap:variable xhtml:name="System.PageNumber" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.3125in" Anchors="Left,Right,Bottom" Bottom="-0.8541667in" Y="6.375in" BorderTopStyle="none" BorderTopWidth="3pt" BorderTopColor="#000000" TextAlign="left" VerticalAlign="bottom" X="-0.3958333in" Width="1047px" Right="-0.3958333in">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Footer">
+                            <xhtml:img xhtml:src="../Images/PageLayout/worldpaydotcom.png" xhtml:style="width: 1.01in;height: 0.15in;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" X="0px" Y="0px" Width="971px" Height="560px" Right="0px" Bottom="0px">
+        </Frame>
+    </Page>
+</PageStyles>

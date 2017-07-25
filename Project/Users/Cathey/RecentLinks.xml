@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\Cathey\Documents\WordPay Main Folder\WorldPay\Content\Resources\Images\Footer\worldpay-logo-white.png" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\Cathey\Documents\WordPay Main Folder\WorldPay\Content\Resources\Snippets\Select Code\Select Code - Block 1.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\Cathey\Documents\WordPay Main Folder\WorldPay\Content\C - Getting Started\Getting Started NEW.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\Cathey\Documents\WordPay Main Folder\WorldPay\Content\D - Integration\Using require.js.htm" />
+    </Dialog>
+</RecentLinks>

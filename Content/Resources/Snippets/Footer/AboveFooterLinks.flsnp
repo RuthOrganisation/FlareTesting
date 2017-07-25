@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="460" MadCap:lastWidth="1233" MadCap:conditions="General.GlobalLink,Media.NotTripane">
+    <body>
+        <div class="row" style="margin-left:auto; margin-right:auto;">
+            <div class="large-3 medium-3 columns">
+                <ul>
+                    <li>Products</li>
+                    <li><a href="http://www.worldpay.com/global/products/online-card-payments">Online card payments</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/products/gateway-services">Gateway services</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="large-3 medium-3 columns">
+                <ul>
+                    <li>About Worldpay</li>
+                    <li><a href="http://careers.worldpay.com/uk/">Careers</a>
+                    </li>
+                    <li><a href="http://investors.worldpay.com/?region=global">Investors</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/about/executive-team">Executive team</a>
+                    </li>
+                    <li><a href="http://investors.worldpay.com/results-centre">Financial results</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/about/our-history">Our history</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/about/media-centre">Press releases</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="large-3 medium-3 columns">
+                <ul>
+                    <li>Insight</li>
+                    <li><a href="http://www.worldpay.com/global/insight">Insight hub</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/blog">Blog articles</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/insight/case-studies">Case studies</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/insight/events">Events</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="large-3 medium-3 columns">
+                <ul>
+                    <li>Support</li>
+                    <li><a href="https://secure.worldpay.com/merchant/">SME merchant login</a>
+                    </li>
+                    <li><a href="https://secure.worldpay.com/sso/public/auth/login.html">Business Manager login</a>
+                    </li>
+                    <li><a href="https://secure.worldpay.com/merchant/">Corporate merchant login</a>
+                    </li>
+                    <li><a href="https://admin4.wpstn.com/rgmatng">Risk Guardian login</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/global/support/guides">Guides</a>
+                    </li>
+                    <li><a href="http://www.worldpay.com/uk/support/shopper-faqs">Shopper FAQs</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
